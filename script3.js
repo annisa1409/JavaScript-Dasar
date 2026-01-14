@@ -1,0 +1,1 @@
+console.log("ini adlah Javascript dari eksternal file");
